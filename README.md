@@ -1,16 +1,22 @@
-## Hi there 👋
-哈哈!大家好。我是江流儿,平平无奇小码农
-<!--
-**lxhanghub/lxhanghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 动态打字效果 -->
+<h1 align="left">
+  <a href="https://liuzhihang.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&lines=小航书 | 专属于你的编程指南！;console.log(%22Hello%EF%BC%8Cworld%22)">
+  </a
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, I'm jiang liuer. 🤪
+
+### :eyes: About
+
+> 编程开发, 热爱各种技术, 闲暇之余看书,爬山.
+
+### :zap: Label:
+
+`golang` `dotnet core`   `coder`
+
+
+### :pushpin: Project
+
+
