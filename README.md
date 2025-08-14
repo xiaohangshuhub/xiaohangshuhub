@@ -7,7 +7,7 @@
 
 <!-- 图片 -->
 <div align="left" >
-  <img order-radius="100px" src="https://github.com/xiaohangshuhub/xiaohangshuhub/blob/main/4.jpeg" style="border-radius: 100px; width: 320px; height: 320px;" />
+  <img order-radius="100px" src="https://github.com/xiaohangshuhub/xiaohangshuhub/blob/main/4.jpeg" style="border-radius: 100px; width: 520px; height: 320px;" />
 </div>
 <br>
 
