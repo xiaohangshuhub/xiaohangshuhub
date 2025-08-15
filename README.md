@@ -11,17 +11,17 @@
 </div>
 <br>
 
-## Hello, I'm jiang liuer.
+## 嘿, 我是江流儿.
 
-### :eyes: About
+### :eyes: 关于:
 
 > 编程开发, 热爱各种技术, 闲暇之余看书,爬山.
 
-### :zap: Label:
+### :zap: 标签:
 
-`golang` `dotnet core`   `coder`
+`小航书` `golang` `dotnet core`   `coder`
 
 
-### :pushpin: Project
+### :pushpin: 项目
 
 
