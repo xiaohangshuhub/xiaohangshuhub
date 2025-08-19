@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="left">
   <a href="https://liuzhihang.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&lines=小航书|专属于你的编程指南!;Print(%22我们不生产框架,只做框架的粘合剂!%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&lines=小航书|专属于你的编程指南!;Print(%22我们不生产框架,只做框架的粘合剂%22)">
   </a
 </h1>
 
